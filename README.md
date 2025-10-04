@@ -30,9 +30,9 @@ Create an energetic and interactive **electric button** that delivers a high-tec
 | Role | Team Member | Responsibilities |
 |------|------------|-----------------|
 | Project Manager | Sonal Shukla | Manage project, assign roles, merge PRs, maintain repo |
-| UI/UX Designer | Member 1 | Design wireframe, color palette, accessibility |
-| Frontend Developer | Member 2 | Implement HTML structure, semantic code |
-| CSS Animation Developer | Member 1 | Write advanced CSS animations and keyframes |
+| UI/UX Designer | Laxmikant Rakhade | Design wireframe, color palette, accessibility |
+| Frontend Developer | Laxmikant Rakhade| Implement HTML structure, semantic code |
+| CSS Animation Developer | Laxmikant Rakhade | Write advanced CSS animations and keyframes |
 | Tester / QA | Both | Cross-browser testing, responsiveness, animation checks |
 | Documentation Lead | Sonal Shukla | Write README.md, requirements, and usage instructions |
 

@@ -1,0 +1,53 @@
+# ⚙️ Project Requirement Document
+
+### Project Name: Next Level Electric Button Animation  
+### Date: 2 October 2025  
+### Project Manager: Sonal Shukla  
+### Collaborators: Teammate 1, Teammate 2  
+
+---
+
+## 🎯 Project Objective
+
+Create a futuristic, visually appealing electric button animation using only HTML & CSS that features glowing filaments, electric lightning, smooth hover effects, and text animations to deliver an energetic and interactive experience.
+
+---
+
+## 🧩 Project Overview
+
+- Technology Stack:  
+  - HTML5  
+  - CSS3 (Advanced Animations, Keyframes, Gradients)
+
+- Tools Used:  
+  - VS Code  
+  - Git & GitHub (for collaboration)  
+  - Browser Developer Tools  
+
+- Goal:  
+  Deliver a single-page animation demo that runs perfectly on all modern browsers (Chrome, Edge, Safari, Firefox).
+
+---
+
+## 👥 Team Roles & Responsibilities
+
+| Role | Team Member | Responsibilities |
+|------|--------------|------------------|
+| Project Manager (You) | Sonal Shukla | Define scope & deadlines, assign roles, manage Git workflow, conduct reviews & approve merges |
+| UI/UX Designer | Member 1 | Design wireframe for button & layout, choose color palette and glow effects, ensure accessibility |
+| Frontend Developer | Member 2 | Implement HTML structure, write clean and semantic code, integrate SVG or design elements |
+| CSS Animation Developer | Member 1 | Create advanced CSS animations (hover, filament glow, text transitions), optimize keyframes |
+| Backend (Optional) | Member 2 | Handle GitHub Pages deployment, maintain repo branches and commit structure |
+| Tester / QA Engineer | Both | Test on multiple browsers, verify responsiveness and animation performance |
+| Documentation Lead | Sonal Shukla | Write README.md, requirements.md, and usage documentation, explain CSS animation logic |
+
+---
+
+## 🔄 Git Workflow (Collaboration via GitHub)
+
+### Step 1 – Setup Repository
+```bash
+git init
+git remote add origin https://github.com/SonalShukla-projects/ELECTRIC-BUTTON-ANIMATION.git
+git branch -M main
+git push -u origin main

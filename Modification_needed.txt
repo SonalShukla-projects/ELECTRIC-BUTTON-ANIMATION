@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-For frontend :
+No modifications needed currently.
+
 Make the light color pink .
-=======
 Make the button color Pink - frontend
->>>>>>> 3a104bdd1a927b53c5031a874f9aca7fac19f33c
+

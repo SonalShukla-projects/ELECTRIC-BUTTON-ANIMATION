@@ -1,2 +1,5 @@
 No modifications needed currently.
-Add pink color to button.
+
+Make the light color pink .
+Make the button color Pink - frontend
+

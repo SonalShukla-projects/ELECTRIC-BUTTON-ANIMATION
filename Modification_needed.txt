@@ -1,1 +1,2 @@
-No modifications needed currently
+For frontend :
+Make the light color pink .

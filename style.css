@@ -13,7 +13,7 @@ body {
 .button-container {
   --filament: #8b451333;
   --filament-grow: #fdfdf9;
-  --glow: #fb07c6c2;
+  --glow: #e61ef5;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   position: relative;
